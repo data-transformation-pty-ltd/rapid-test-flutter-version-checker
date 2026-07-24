@@ -3,25 +3,24 @@
   "android_tablet": {
     "latest_version": "7.0.4",
     "minimum_version": "6.7.6",
-    "update_url": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp",
-    "release_notes": "Bug fixes and performance improvements.\nBug fixes and performance improvements."
+    "update_url": "https://play.google.com/store/apps/details?id=com.rapidtest",
+    "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   },
   "android_mobile": {
     "latest_version": "7.0.4",
     "minimum_version": "6.7.6",
-    "update_url": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp",
-    "release_notes": "Bug fixes and performance improvements.\nBug fixes and performance improvements."
+    "update_url": "https://play.google.com/store/apps/details?id=com.rapidtest.mob",
+    "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   },
   "ios": {
     "latest_version": "7.0.4",
     "minimum_version": "6.7.6",
-    "update_url": "https://apps.apple.com/app/id0000000000",
-    "release_notes": "Bug fixes and performance improvements.\nBug fixes and performance improvements."
-  },
+    "update_url": "https://apps.apple.com/app/id6754751608?l=id",
+    "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   "windows": {
     "latest_version": "7.0.4",
     "minimum_version": "6.7.6",
-    "update_url": "https://apps.microsoft.com/detail/0000000000",
-    "release_notes": "Bug fixes and performance improvements.\nBug fixes and performance improvements."
+    "update_url": "https://apps.microsoft.com/detail/9nlx89r5g7n5",
+    "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   }
 }
