@@ -19,8 +19,8 @@
     "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   },
   "windows": {
-    "latest_version": "7.1.3",
-    "minimum_version": "7.1.3",
+    "latest_version": "7.2.1",
+    "minimum_version": "7.2.1",
     "update_url": "https://apps.microsoft.com/detail/9nlx89r5g7n5",
     "release_notes": "- Refined user interface and experience\n- General stability improvements\n- Several bug fixes"
   }
